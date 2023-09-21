@@ -1,4 +1,3 @@
-## Hi, I'm Luis Medina 📱
-I'm Software Engineer, I enjoy working with Javascript/React Native, Flutter / Dart, Objective C / Swift
+Hello, I'm Luis. I do cross-platform mobile app development 📱 that means mostly Flutter, React Native, Objective-C/Swift. I'm passionate contribute to open source.
 
 
