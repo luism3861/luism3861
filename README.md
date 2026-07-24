@@ -2,4 +2,3 @@ Hello, Security Software Engineer | Mobile Application Security | Web Applicatio
 
 Code verification according to OWASP Mobile and Web Top 10 guidelines.
 
-threefromnowhere.com
